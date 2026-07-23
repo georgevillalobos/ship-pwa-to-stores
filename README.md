@@ -1,3 +1,5 @@
+![Ship a PWA to the Stores — an open-source playbook by PVG Production](banner.png)
+
 # Ship a Local Web App to the App Stores — a PWA → Microsoft Store / Google Play / iOS playbook
 
 A field guide to turning a plain web app (even one that only runs on your own PC)
@@ -229,6 +231,16 @@ Share → Add to Home Screen, so the App Store is the least urgent.
 - [Cloudflare Tunnel (cloudflared)](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)
 - [web.dev — Progressive Web Apps](https://web.dev/explore/progressive-web-apps)
 - [Digital Asset Links (Android verification)](https://developers.google.com/digital-asset-links/v1/getting-started)
+
+---
+
+## More from PVG Production
+
+Three projects, one story — how a private research tool became a public app, and everything I learned shipping it:
+
+- 📖 **[ship-pwa-to-stores](https://github.com/georgevillalobos/ship-pwa-to-stores)** — this guide *(you're here)*.
+- 🎯 **[Prediction Command Center](https://github.com/georgevillalobos/prediction-command-center)** — the live research app this guide was written from · [live app](https://app.pvgproduction.com) · [Microsoft Store](https://apps.microsoft.com/detail/9NST6KJF5TGR)
+- 🧩 **[prediction-agent-skeleton](https://github.com/georgevillalobos/prediction-agent-skeleton)** — a clean, runnable reference architecture for a self-grading research agent.
 
 ---
 
